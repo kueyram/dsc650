@@ -1,0 +1,7 @@
+-10 points for your explanation on why the pi calculation is wrong.
+
+In the Monte Carlo method for estimating π, random points are generated within a square, and the number of points falling inside a quarter-circle inside that square is counted. The ratio of the points inside the circle to the total points is then used to estimate π, based on the mathematical relationship between the area of a circle and a square.
+
+However, since this method relies on random sampling, it produces an approximation rather than an exact value. The accuracy of the result depends on the number of points used: the more points, the closer the estimation will be to the true value of π. But even with a large number of points, the result is still an approximation and can slightly differ from the exact value of π.
+
+In the context of the Hadoop MapReduce example, the job is designed to demonstrate the distributed computing capabilities of Hadoop rather than to provide an exact calculation of π. The distributed nature of the computation and the finite number of samples used further contribute to the approximation rather than an exact result.

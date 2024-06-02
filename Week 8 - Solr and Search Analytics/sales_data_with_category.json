@@ -1,0 +1,82 @@
+[
+    {
+        "sale_id": 1,
+        "product": "Product 1",
+        "category": "Books",
+        "quantity": 5,
+        "unit_price": 11.35,
+        "total_price": 56.75
+    },
+    {
+        "sale_id": 2,
+        "product": "Product 2",
+        "category": "Electronics",
+        "quantity": 1,
+        "unit_price": 16.33,
+        "total_price": 16.33
+    },
+    {
+        "sale_id": 3,
+        "product": "Product 3",
+        "category": "Toys",
+        "quantity": 4,
+        "unit_price": 59.45,
+        "total_price": 237.8
+    },
+    {
+        "sale_id": 4,
+        "product": "Product 4",
+        "category": "Clothing",
+        "quantity": 8,
+        "unit_price": 81.1,
+        "total_price": 648.8
+    },
+    {
+        "sale_id": 5,
+        "product": "Product 5",
+        "category": "Home & Kitchen",
+        "quantity": 8,
+        "unit_price": 85.35,
+        "total_price": 682.8
+    },
+    {
+        "sale_id": 6,
+        "product": "Product 6",
+        "category": "Home & Kitchen",
+        "quantity": 7,
+        "unit_price": 18.29,
+        "total_price": 128.03
+    },
+    {
+        "sale_id": 7,
+        "product": "Product 7",
+        "category": "Clothing",
+        "quantity": 6,
+        "unit_price": 99.28,
+        "total_price": 595.68
+    },
+    {
+        "sale_id": 8,
+        "product": "Product 8",
+        "category": "Toys",
+        "quantity": 7,
+        "unit_price": 73.46,
+        "total_price": 514.22
+    },
+    {
+        "sale_id": 9,
+        "product": "Product 9",
+        "category": "Home & Kitchen",
+        "quantity": 5,
+        "unit_price": 45.69,
+        "total_price": 228.45
+    },
+    {
+        "sale_id": 10,
+        "product": "Product 10",
+        "category": "Home & Kitchen",
+        "quantity": 6,
+        "unit_price": 97.72,
+        "total_price": 586.32
+    }
+]

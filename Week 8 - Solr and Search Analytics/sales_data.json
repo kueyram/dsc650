@@ -1,0 +1,72 @@
+[
+    {
+        "sale_id": 1,
+        "product": "Product 1",
+        "quantity": 7,
+        "unit_price": 28.1,
+        "total_price": 196.7
+    },
+    {
+        "sale_id": 2,
+        "product": "Product 2",
+        "quantity": 2,
+        "unit_price": 84.27,
+        "total_price": 168.54
+    },
+    {
+        "sale_id": 3,
+        "product": "Product 3",
+        "quantity": 6,
+        "unit_price": 96.2,
+        "total_price": 577.2
+    },
+    {
+        "sale_id": 4,
+        "product": "Product 4",
+        "quantity": 10,
+        "unit_price": 96.73,
+        "total_price": 967.3
+    },
+    {
+        "sale_id": 5,
+        "product": "Product 5",
+        "quantity": 7,
+        "unit_price": 20.34,
+        "total_price": 142.38
+    },
+    {
+        "sale_id": 6,
+        "product": "Product 6",
+        "quantity": 4,
+        "unit_price": 67.67,
+        "total_price": 270.68
+    },
+    {
+        "sale_id": 7,
+        "product": "Product 7",
+        "quantity": 4,
+        "unit_price": 19.68,
+        "total_price": 78.72
+    },
+    {
+        "sale_id": 8,
+        "product": "Product 8",
+        "quantity": 1,
+        "unit_price": 56.2,
+        "total_price": 56.2
+    },
+    {
+        "sale_id": 9,
+        "product": "Product 9",
+        "quantity": 4,
+        "unit_price": 38.6,
+        "total_price": 154.4
+    },
+    {
+        "sale_id": 10,
+        "product": "Product 10",
+        "quantity": 8,
+        "unit_price": 18.3,
+        "total_price": 146.4
+    }
+]
